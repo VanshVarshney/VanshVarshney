@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Checkout My Portfolio : <a href="https://VANSHVARSHNEY.me" target="_blank">https://VanshVarshney </a>
-
+Checkout My Portfolio : [https://VanshVarshney](https://vanshvarshhney.me)
 <br>
 
 ![](https://i.ibb.co/s5KM54V/Untitled-design-1.png)
