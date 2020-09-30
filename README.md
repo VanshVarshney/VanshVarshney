@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Checkout My Portfolio : [https://VanshVarshney.me](https://vanshvarshhney.me)
+Checkout My Portfolio : [https://VanshVarshney](https://vanshvarshney.me)
 <br>
 
 ![](https://i.ibb.co/s5KM54V/Untitled-design-1.png)
