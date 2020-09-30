@@ -10,4 +10,3 @@ Checkout My Portfolio : <a href="https://VANSHVARSHNEY.me" target="_blank">https
 
 ![](https://i.ibb.co/s5KM54V/Untitled-design-1.png)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VANSHVARSHNEY)
