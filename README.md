@@ -10,25 +10,22 @@
 <a href="https://www.instagram.com/vanshvarshney_/">
   <img align="left" alt="vansh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="vansh's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
+
 <a href="https://medium.com/@vanshvarshney_">
   <img align="left" alt="vansh's Medium Blog" width="22px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/medium.svg />
 </a>
 <a href="https://vanshvarshney.me">
-  <img align="right" alt="vansh's Personal Website" width="22px" src="assets/resume.svg" />
+  <img align="left" alt="vansh's Personal Website" width="22px" src="assets/resume.svg" />
 </a>
 
 <br>
-
 <br>
+
 I am a Computer Science Engineer (CSE) student and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools.
-<br*>
+<br\*>
 
 <img align="right" alt="GIF" src="https://github.com/vanshvarshney/vanshvarshney/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<br>
 <br>
 
 - 🔭 I’m currently working on ReactJS & ReactNative, Nodejs.
