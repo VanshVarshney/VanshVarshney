@@ -22,13 +22,13 @@
 <br>
 
 I am a Computer Science Engineer (CSE) student and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools.
-<br\*>
+<br>
 
 <img align="right" alt="GIF" src="https://github.com/vanshvarshney/vanshvarshney/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br>
 
-- 🔭 I’m currently working on ReactJS & ReactNative, Nodejs.
+- 🔭 I’m currently working on ReactJS, ReactNative, Nodejs , MERN Stack Development
 - 🌱 I’m currently learning competitive coding.
 - ⚡ Available for Freelance projects/internship opportunities.
 
