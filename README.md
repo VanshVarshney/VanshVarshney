@@ -21,7 +21,7 @@
 <br>
 <br>
 
-I am a Computer Science Engineer (CSE) student and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools.
+I am a Software Engineer have experience in working in cutting edge technology worked as a Full stack developer👨‍💻. Interested in making life easier by creating utility tools.
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/vanshvarshney/vanshvarshney/blob/master/code.gif?raw=true" width="500" height="320" />
